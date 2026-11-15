@@ -33,8 +33,10 @@ Clues are hidden around the level: they give the code of the final door.
 A solo project in Unreal Engine 5, built entirely in Blueprints.
 
 - A wave system, and doors tied to those waves.
+- Zombies driven by a Behavior Tree, started by their AI controller, with a health bar above each one.
 - A countdown, health points and two pick-ups.
-- An interactive keypad, on which a code is really typed.
+- An interactive keypad, on which a code is really typed; it opens its door through Blueprint interfaces.
+- Weapons built by inheritance, from a base weapon.
 - A main menu.
 
 **Result:** a playable game, shown on video, with nine waves to hold off, five doors to get through and a final puzzle.
