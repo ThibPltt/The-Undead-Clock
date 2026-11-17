@@ -115,3 +115,9 @@ The packs below are **not included** in this repository and are not covered by t
 | `Content/Audio` | “Boss Battle” — b_sean (Freesound #421886) and male pain voice sounds | freesound.org and sound libraries | licence of each sound |
 
 Epic’s First Person template (`Content/FirstPerson`) stays in the repository, under the Unreal Engine EULA.
+
+<details>
+<summary>🇫🇷 En bref</summary>
+
+Mini-jeu de survie sous Unreal Engine 5, entièrement en Blueprints : s’échapper d’un complexe industriel envahi de zombies, avec un temps et une vie limités. Projet réalisé seul à l’ENSIM (2025 – 2026). Version Windows dans les [Releases](https://github.com/ThibPltt/The-Undead-Clock/releases/latest). Fiche complète sur [thibautplatet.com](https://thibautplatet.com/projets/the-undead-clock.html).
+</details>
