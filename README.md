@@ -11,6 +11,7 @@ Survival mini-game in Unreal Engine 5, built entirely in Blueprints.
 | **Dates** | 2025 – 2026 |
 | **Context** | survival mini-game · solo project · ENSIM |
 | **Technologies** | Unreal Engine 5 · Blueprints |
+| **Play it** | [v1.0 Windows build](https://github.com/ThibPltt/The-Undead-Clock/releases/latest) |
 | **Video** | [Gameplay on YouTube](https://www.youtube.com/watch?v=hAo6v7G74Nc) |
 | **Case study** | [thibautplatet.com/en/projects/the-undead-clock.html](https://thibautplatet.com/en/projects/the-undead-clock.html) |
 
@@ -83,9 +84,8 @@ All the logic is in `Content/Blueprints/`:
 
 ## Run it
 
-1. Install **Unreal Engine 5.2**.
-2. Clone the repository and open `The_Undead_Clock.uproject`.
-3. Press **Play**: the game starts on the main menu (`Content/FirstPerson/Maps/MainMenuMap`).
+- **Play:** download `The_Undead_Clock.zip` from the [latest release](https://github.com/ThibPltt/The-Undead-Clock/releases/latest), unzip it and run `Windows/The_Undead_Clock.exe` (Windows, 64-bit).
+- **From the source:** install **Unreal Engine 5.2**, clone the repository, open `The_Undead_Clock.uproject` and press **Play**: the game starts on the main menu (`Content/FirstPerson/Maps/MainMenuMap`).
 
 ## Credits
 
