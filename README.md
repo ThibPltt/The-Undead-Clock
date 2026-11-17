@@ -98,7 +98,7 @@ The game design, levels and Blueprints of this repository are released under the
 
 ### Third-party assets
 
-The packs below are **not** covered by the MIT licence: they stay under their publishers’ terms (mostly the [Fab Standard License](https://www.fab.com/cla)). To reuse them in another project, add them from Fab (Epic Games Launcher › Fab Library › *Add to project*).
+The packs below are **not included** in this repository and are not covered by the MIT licence: they stay under their publishers’ terms (mostly the [Fab Standard License](https://www.fab.com/cla)). To open the full project, add them from Fab (Epic Games Launcher › Fab Library › *Add to project*) and place them in the folder shown, since Unreal finds assets by their path. The playable build is in the [Releases](https://github.com/ThibPltt/The-Undead-Clock/releases/latest).
 
 | Folder | Asset | Source | Licence |
 |---|---|---|---|
@@ -112,5 +112,6 @@ The packs below are **not** covered by the MIT licence: they stay under their pu
 | `Content/Fab/Cute_Cartoon_Alarm_Clock` | Cute Cartoon Alarm Clock | Fab | Fab Standard |
 | `Content/MSPresets` | Megascans master materials — Quixel | Fab / Quixel Bridge | Fab Standard |
 | `Content/Characters/Soldier` | Soldier character and rifle animation | Mixamo (Adobe) | Mixamo terms |
-| `Content/Audio/Music` | “Boss Battle” — b_sean (Freesound #421886) | freesound.org | Freesound licence of the sound |
-| `Content/FirstPerson` | First Person template — Epic Games | Unreal Engine | Unreal Engine EULA |
+| `Content/Audio` | “Boss Battle” — b_sean (Freesound #421886) and male pain voice sounds | freesound.org and sound libraries | licence of each sound |
+
+Epic’s First Person template (`Content/FirstPerson`) stays in the repository, under the Unreal Engine EULA.
