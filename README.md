@@ -91,3 +91,26 @@ All the logic is in `Content/Blueprints/`:
 
 Game design, level scripting and Blueprints: **Thibaut Platet**.
 Environment, characters, animations, weapons and VFX come from third-party packs (Abandoned Power Plant, Zombie Animation Pack, Anim Starter Pack, FPS Weapon Bundle, Realistic Starter VFX Pack Vol. 2) and free sound libraries; they keep their own licences.
+
+## Licence
+
+The game design, levels and Blueprints of this repository are released under the [MIT licence](LICENSE).
+
+### Third-party assets
+
+The packs below are **not** covered by the MIT licence: they stay under their publishers’ terms (mostly the [Fab Standard License](https://www.fab.com/cla)). To reuse them in another project, add them from Fab (Epic Games Launcher › Fab Library › *Add to project*).
+
+| Folder | Asset | Source | Licence |
+|---|---|---|---|
+| `Content/Environment/AbandonedPowerPlant` | Abandoned Power Plant | Fab (Unreal Engine Marketplace) | Fab Standard |
+| `Content/Environment/SmartBasicInterfaces` | Smart Basic Interfaces | Fab (Unreal Engine Marketplace) | Fab Standard |
+| `Content/Environment/FPS_Weapon_Bundle` | FPS Weapon Bundle | Fab (Unreal Engine Marketplace) | Fab Standard |
+| `Content/Environment/Realistic_Starter_VFX_Pack_Vol2` | [Realistic Starter VFX Pack Vol 2](https://fab.com/s/b7603e0a549d) — FX Cat UA | Fab | Fab Standard |
+| `Content/Animation/ZombieAnimationPack` | Zombie Animation Pack | Fab (Unreal Engine Marketplace) | Fab Standard |
+| `Content/Animation/AnimStarterPack` | Animation Starter Pack — Epic Games | Fab (Unreal Engine Marketplace) | Fab Standard |
+| `Content/Fab/An_Alien_Landscape_-_Catalog_211104_01` | An Alien Landscape | Fab | Fab Standard |
+| `Content/Fab/Cute_Cartoon_Alarm_Clock` | Cute Cartoon Alarm Clock | Fab | Fab Standard |
+| `Content/MSPresets` | Megascans master materials — Quixel | Fab / Quixel Bridge | Fab Standard |
+| `Content/Characters/Soldier` | Soldier character and rifle animation | Mixamo (Adobe) | Mixamo terms |
+| `Content/Audio/Music` | “Boss Battle” — b_sean (Freesound #421886) | freesound.org | Freesound licence of the sound |
+| `Content/FirstPerson` | First Person template — Epic Games | Unreal Engine | Unreal Engine EULA |
